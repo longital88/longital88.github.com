@@ -1,3 +1,5 @@
+# mysql commands
+
 SELECT *
 FROM customers
 WHERE last_name REGEXP 'B[RU]'
